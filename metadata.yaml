@@ -1,0 +1,36 @@
+_repo: La-dame-aux-cam-lias_2419
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dumas, Alexandre
+    aliases:
+    - Dumas, A. (Alexandre)
+    - Dumas fils, Alexandre
+    birthdate: 1824
+    deathdate: 1895
+    gutenberg_agent_id: '672'
+    url: http://www.gutenberg.org/2009/agents/672
+    wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_fils
+description: ''
+gutenberg_bookshelf:
+- Banned Books from Anne Haight's list
+- Opera
+- FR Littérature
+gutenberg_issued: '2000-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2419'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tuberculosis -- Patients -- Fiction'
+- !lcsh 'Courtesans -- Fiction'
+- !lcsh 'Love stories'
+- !lcc 'PQ'
+- !lcsh 'Fathers and sons -- Fiction'
+- !lcsh 'Paris (France) -- Fiction'
+- GITenberg
+title: La dame aux camélias
+url: http://www.gutenberg.org/ebooks/2419
